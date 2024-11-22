@@ -9,8 +9,8 @@ RSS = \sum_{i=1}^n (Y_i - \hat{Y}_i)^2
 $$
 $$
 MSE = \frac{RSS}{n - p}
-$$
-$$
+* $$
+* $$
 RSE = \sqrt{MSE} = \sqrt{\frac{RSS}{n - p}}
 $$
 
@@ -691,7 +691,7 @@ $$
 $$
 \sum_{j=1}^{J}\sum_{i∈Rj}(y_i-\hat{y}_{R_j})^2
 $$
-
+![](img/图片22.png)
 #### 分类树
 
 分类树与回归树类似，但是评判标注不能使用RSS，改为分类错误率、基尼系数和互熵
