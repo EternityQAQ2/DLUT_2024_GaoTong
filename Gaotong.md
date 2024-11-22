@@ -2,7 +2,7 @@
 # 高统
 #### 5/11/2024 Linxi(LiLinxi) 2024 Gaotong
 #### Reference:2020YangChengYu
-
+#### https://github.com/EternityQAQ2/DLUT_2024_GaoTong
 RSS（残差平方和）、RSE（残差标准误）和MSE（均方误差）
 $$
 RSS = \sum_{i=1}^n (Y_i - \hat{Y}_i)^2
